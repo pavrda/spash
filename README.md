@@ -1,0 +1,4 @@
+spash
+=====
+
+iphone splashscreen
